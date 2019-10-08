@@ -1,0 +1,6 @@
+[16-Jun-2019 21:13:56 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/seksi/index.php on line 10
+[17-Jun-2019 06:04:17 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/seksi/index.php on line 10
+[22-Jun-2019 11:27:42 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/seksi/index.php on line 10
+[23-Jun-2019 13:47:32 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/seksi/index.php on line 10
+[28-Jun-2019 14:34:50 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/seksi/index.php on line 10
+[29-Jun-2019 08:19:42 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/seksi/index.php on line 10

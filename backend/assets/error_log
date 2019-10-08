@@ -1,0 +1,6 @@
+[16-Jun-2019 14:29:04 Asia/Jakarta] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/sitekadc/public_html/backend/assets/AppAsset.php on line 11
+[16-Jun-2019 17:32:02 Asia/Jakarta] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/sitekadc/public_html/backend/assets/AppAsset.php on line 11
+[22-Jun-2019 06:51:13 Asia/Jakarta] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/sitekadc/public_html/backend/assets/AppAsset.php on line 11
+[22-Jun-2019 16:22:54 Asia/Jakarta] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/sitekadc/public_html/backend/assets/AppAsset.php on line 11
+[28-Jun-2019 07:10:58 Asia/Jakarta] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/sitekadc/public_html/backend/assets/AppAsset.php on line 11
+[28-Jun-2019 16:27:45 Asia/Jakarta] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/sitekadc/public_html/backend/assets/AppAsset.php on line 11

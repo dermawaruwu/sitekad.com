@@ -1,0 +1,6 @@
+[16-Jun-2019 13:49:52 Asia/Jakarta] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/sitekadc/public_html/common/fixtures/UserFixture.php on line 7
+[16-Jun-2019 19:26:02 Asia/Jakarta] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/sitekadc/public_html/common/fixtures/UserFixture.php on line 7
+[22-Jun-2019 06:53:27 Asia/Jakarta] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/sitekadc/public_html/common/fixtures/UserFixture.php on line 7
+[22-Jun-2019 18:48:16 Asia/Jakarta] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/sitekadc/public_html/common/fixtures/UserFixture.php on line 7
+[28-Jun-2019 20:19:26 Asia/Jakarta] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/sitekadc/public_html/common/fixtures/UserFixture.php on line 7
+[28-Jun-2019 22:25:10 Asia/Jakarta] PHP Fatal error:  Class 'yii\test\ActiveFixture' not found in /home/sitekadc/public_html/common/fixtures/UserFixture.php on line 7

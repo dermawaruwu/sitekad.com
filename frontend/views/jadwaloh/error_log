@@ -1,0 +1,12 @@
+[17-Jun-2019 06:06:08 Asia/Jakarta] PHP Notice:  Undefined variable: dataProvider in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[17-Jun-2019 06:06:08 Asia/Jakarta] PHP Fatal error:  Call to a member function getModels() on null in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[17-Jun-2019 09:41:50 Asia/Jakarta] PHP Notice:  Undefined variable: dataProvider in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[17-Jun-2019 09:41:50 Asia/Jakarta] PHP Fatal error:  Call to a member function getModels() on null in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[23-Jun-2019 02:11:30 Asia/Jakarta] PHP Notice:  Undefined variable: dataProvider in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[23-Jun-2019 02:11:30 Asia/Jakarta] PHP Fatal error:  Call to a member function getModels() on null in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[23-Jun-2019 22:25:24 Asia/Jakarta] PHP Notice:  Undefined variable: dataProvider in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[23-Jun-2019 22:25:24 Asia/Jakarta] PHP Fatal error:  Call to a member function getModels() on null in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[29-Jun-2019 00:11:46 Asia/Jakarta] PHP Notice:  Undefined variable: dataProvider in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[29-Jun-2019 00:11:46 Asia/Jakarta] PHP Fatal error:  Call to a member function getModels() on null in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[29-Jun-2019 13:20:54 Asia/Jakarta] PHP Notice:  Undefined variable: dataProvider in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3
+[29-Jun-2019 13:20:54 Asia/Jakarta] PHP Fatal error:  Call to a member function getModels() on null in /home/sitekadc/public_html/frontend/views/jadwaloh/index.php on line 3

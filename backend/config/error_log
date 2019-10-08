@@ -1,0 +1,14 @@
+[15-Jun-2019 22:27:43 Asia/Jakarta] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/sitekadc/public_html/backend/config/main.php on line 29
+[16-Jun-2019 00:53:52 Asia/Jakarta] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/sitekadc/public_html/backend/config/test-local.php on line 2
+[16-Jun-2019 10:13:46 Asia/Jakarta] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/sitekadc/public_html/backend/config/test-local.php on line 2
+[16-Jun-2019 14:56:42 Asia/Jakarta] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/sitekadc/public_html/backend/config/main.php on line 29
+[22-Jun-2019 10:12:29 Asia/Jakarta] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/sitekadc/public_html/backend/config/main.php on line 29
+[22-Jun-2019 14:55:39 Asia/Jakarta] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/sitekadc/public_html/backend/config/test-local.php on line 2
+[22-Jun-2019 16:01:53 Asia/Jakarta] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/sitekadc/public_html/backend/config/test-local.php on line 2
+[28-Jun-2019 07:41:56 Asia/Jakarta] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/sitekadc/public_html/backend/config/test-local.php on line 2
+[29-Jun-2019 04:36:58 Asia/Jakarta] PHP Fatal error:  Class 'yii\helpers\ArrayHelper' not found in /home/sitekadc/public_html/backend/config/test-local.php on line 2
+[04-Jul-2019 02:31:34 Asia/Jakarta] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/sitekadc/public_html/backend/config/main.php on line 29
+[28-Jul-2019 05:27:51 UTC] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/sitekadc/public_html/backend/config/main.php on line 29
+[15-Aug-2019 14:34:04 Asia/Jakarta] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/sitekadc/public_html/backend/config/main.php on line 29
+[04-Sep-2019 20:45:02 Asia/Jakarta] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/sitekadc/public_html/backend/config/main.php on line 29
+[21-Sep-2019 00:47:18 Asia/Jakarta] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/sitekadc/public_html/backend/config/main.php on line 29

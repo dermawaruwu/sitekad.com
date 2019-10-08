@@ -1,0 +1,12 @@
+[21-Jun-2019 11:03:17 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/text.php on line 10
+[21-Jun-2019 13:34:04 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/text.php on line 10
+[21-Jun-2019 23:03:20 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/html.php on line 8
+[22-Jun-2019 00:47:05 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/html.php on line 8
+[27-Jun-2019 11:00:13 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/html.php on line 8
+[27-Jun-2019 12:24:34 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/text.php on line 10
+[27-Jun-2019 17:48:17 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/text.php on line 10
+[27-Jun-2019 18:13:59 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/html.php on line 8
+[03-Jul-2019 12:23:09 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/html.php on line 8
+[03-Jul-2019 14:21:45 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/html.php on line 8
+[04-Jul-2019 01:23:01 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/text.php on line 10
+[04-Jul-2019 06:52:07 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/common/mail/layouts/text.php on line 10

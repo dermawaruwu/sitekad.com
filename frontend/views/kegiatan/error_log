@@ -1,0 +1,6 @@
+[17-Jun-2019 10:16:05 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/kegiatan/index.php on line 10
+[17-Jun-2019 13:39:40 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/kegiatan/index.php on line 10
+[23-Jun-2019 01:46:08 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/kegiatan/index.php on line 10
+[23-Jun-2019 21:19:37 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/kegiatan/index.php on line 10
+[29-Jun-2019 03:15:04 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/kegiatan/index.php on line 10
+[29-Jun-2019 06:29:54 Asia/Jakarta] PHP Fatal error:  Using $this when not in object context in /home/sitekadc/public_html/frontend/views/kegiatan/index.php on line 10

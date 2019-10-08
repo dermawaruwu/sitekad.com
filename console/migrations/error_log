@@ -1,0 +1,6 @@
+[17-Jun-2019 02:45:59 Asia/Jakarta] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/sitekadc/public_html/console/migrations/m130524_201442_init.php on line 6
+[17-Jun-2019 06:05:26 Asia/Jakarta] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/sitekadc/public_html/console/migrations/m130524_201442_init.php on line 6
+[23-Jun-2019 05:43:20 Asia/Jakarta] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/sitekadc/public_html/console/migrations/m130524_201442_init.php on line 6
+[23-Jun-2019 09:27:32 Asia/Jakarta] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/sitekadc/public_html/console/migrations/m130524_201442_init.php on line 6
+[29-Jun-2019 08:50:49 Asia/Jakarta] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/sitekadc/public_html/console/migrations/m130524_201442_init.php on line 6
+[30-Jun-2019 01:14:11 Asia/Jakarta] PHP Fatal error:  Class 'yii\db\Migration' not found in /home/sitekadc/public_html/console/migrations/m130524_201442_init.php on line 6

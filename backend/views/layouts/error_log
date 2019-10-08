@@ -1,0 +1,6 @@
+[21-Jun-2019 05:16:46 Asia/Jakarta] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/sitekadc/public_html/backend/views/layouts/main.php on line 13
+[21-Jun-2019 23:23:27 Asia/Jakarta] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/sitekadc/public_html/backend/views/layouts/main.php on line 13
+[27-Jun-2019 06:58:14 Asia/Jakarta] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/sitekadc/public_html/backend/views/layouts/main.php on line 13
+[27-Jun-2019 22:45:14 Asia/Jakarta] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/sitekadc/public_html/backend/views/layouts/main.php on line 13
+[02-Jul-2019 10:17:47 Asia/Jakarta] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/sitekadc/public_html/backend/views/layouts/main.php on line 13
+[04-Jul-2019 00:18:47 Asia/Jakarta] PHP Fatal error:  Class 'backend\assets\AppAsset' not found in /home/sitekadc/public_html/backend/views/layouts/main.php on line 13
